@@ -1,0 +1,10 @@
+
+menu hshift 13
+menu width 49
+menu margin 8
+
+default winpe5.0
+
+label winpe5.0
+  menu label Windows PE 5.0
+  kernel boot/pxeboot.0
